@@ -9,7 +9,8 @@ R: Achar o melhor custo benefício para a sua situação
 Como posso chegar?
 R: Escolhendo imóveis que vão de acordo com as caracteristicas desejadas: Custar até 4000 Euros, entre 2 e 3 quartos, ser em Barcelona ou Porto e aceitar animais.
 
-- Etapas realizadas: 
+Etapas realizadas:
+  
 O Entendimento do Negócio:
 Eles são relevantes para o problema?
 Eles me trazem uma solução direta?
